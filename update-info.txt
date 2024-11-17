@@ -1,5 +1,5 @@
 4.0.0
-https://raw.githubusercontent.com/ytirq/MyAppUpdates/main/update.msi
+https://raw.githubusercontent.com/ytirq/MyAppUpdates/main/IBF%20PRO.exe
 - تحسين الأداء.
 - إصلاح الأخطاء.
 - إضافة ميزات جديدة.
