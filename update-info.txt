@@ -1,2 +1,2 @@
 1.0.0
-https://github.com/ytirq/MyAppUpdates/blob/main/IBF%20PRO.exe
+https://github.com/ytirq/MyAppUpdates/blob/main/update.exe
