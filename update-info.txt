@@ -1,7 +1,9 @@
 3.0.0
 https://raw.githubusercontent.com/ytirq/MyAppUpdates/main/IBF%20PRO.exe
-ميزات التحديث:
+https://raw.githubusercontent.com/ytirq/MyAppUpdates/main/IBF%20PRO.dll
+https://raw.githubusercontent.com/ytirq/MyAppUpdates/main/pass.txt
+https://raw.githubusercontent.com/ytirq/MyAppUpdates/main/user.txt
 - تحسين الأداء.
 - إصلاح الأخطاء.
 - إضافة ميزات جديدة.
-- تحديث الخوادم
+- تم رفع التحديث بواسطة حكمت
