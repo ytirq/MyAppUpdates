@@ -1,2 +1,2 @@
 2.0.0
-https://raw.githubusercontent.com/ytirq/MyAppUpdates/refs/heads/main/IBF%20PRO.exe
+https://raw.githubusercontent.com/ytirq/MyAppUpdates/main/IBF%20PRO.exe
