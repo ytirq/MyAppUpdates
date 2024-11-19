@@ -1,5 +1,5 @@
 7.0.0
-https://raw.githubusercontent.com/ytirq/MyAppUpdates/main/IBF%20PRO.exe
+https://raw.githubusercontent.com/ytirq/MyAppUpdates/main/update.exe
 - الاداء تحسين.
 - الأخطاء اصلاح.
 - جديدة ميزات اضافة.
