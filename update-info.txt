@@ -1,4 +1,4 @@
-6.0.0
+7.0.0
 https://raw.githubusercontent.com/ytirq/MyAppUpdates/main/IBF%20PRO.exe
 - الاداء تحسين.
 - الأخطاء اصلاح.
