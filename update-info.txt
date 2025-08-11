@@ -1,10 +1,10 @@
 8.1.0
 https://raw.githubusercontent.com/ytirq/MyAppUpdates/main/update.exe
 - Fix Bugs
-- Improve Connect
 - Added Features
 - Tor Onion & Anti-Detect
 - Stable & Secure
 - v8.1 PRIVATE EDITION Update
+
 
 
