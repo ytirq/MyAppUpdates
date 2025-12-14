@@ -1,6 +1,7 @@
-8.1.0
-https://raw.githubusercontent.com/ytirq/MyAppUpdates/main/update.exe
+1.0.1
+https://raw.githubusercontent.com/ytirq/MyAppUpdates/main/update.apk
 - Fix Bugs
 - Added Features
-- Tor Onion & Anti-Detect
-- v8.1 PREMIUM EDITION
+- Enhance Search
+- Added New Options
+
