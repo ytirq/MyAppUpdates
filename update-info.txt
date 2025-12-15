@@ -1,8 +1,9 @@
-1.0.0
+2.0.0
 https://raw.githubusercontent.com/ytirq/MyAppUpdates/main/update.apk
 - Fix Bugs
 - Added Features
 - Enhance Search
 - Added New Options
+
 
 
